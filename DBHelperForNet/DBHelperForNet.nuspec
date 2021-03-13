@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>Leo Rachmat Widodo</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <projectUrl>https://github.com/leowidodo/DBHelperForNet</projectUrl>
+    <!-- <iconUrl>http://icon_url_here_or_delete_this_line/</iconUrl> -->
+    <description>DB Connection for ado.net. Use for .net framework only</description>
+    <releaseNotes>First Release</releaseNotes>
+    <copyright>$copyright$</copyright>
+    <tags>DBHelper DBHelperForNET AdonetDBHelper</tags>
+	<dependencies>
+	  <group targetFramework=".NETFramework4.6.1" />
+	</dependencies>
+  </metadata>
+</package>
